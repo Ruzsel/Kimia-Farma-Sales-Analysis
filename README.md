@@ -162,3 +162,6 @@ SET
 
 ## Interactive Dashboard
 https://lnkd.in/gTtQV3tS
+## LinkedIn
+
+Click here>>> <a href="https://www.linkedin.com/in/fairuzmujahidannabil" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30"></a> Fairuz Mujahid Annabil
