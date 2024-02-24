@@ -160,6 +160,9 @@ SET
 | hari           | VARCHAR(10) | Day name when the sale occurred              | EXTRACT day from 'tanggal' |
 | minggu         | INTEGER     | Week number of the sale occurrence            | EXTRACT week from 'tanggal' as integer |
 
+## ERD
+![ERD fix](https://github.com/Ruzsel/Kimia-Farma-Sales-Analysis/assets/150054552/12ada216-9768-4ead-a3c4-859d6d8bf5d2)
+
 ## Interactive Dashboard
 https://lnkd.in/gTtQV3tS
 ## LinkedIn
