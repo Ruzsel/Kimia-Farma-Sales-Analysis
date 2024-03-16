@@ -1,5 +1,9 @@
 # Kimia-Farma-Sales-Analysis
 ### "The project I created while participating in the 'Project-Based Virtual Intern : Big Data Analytics Kimia Farma x Rakamin Academy' program by Rakamin Academy."
+
+## LinkedIn
+[**Fairuz Mujahid Annabil**](https://www.linkedin.com/in/fairuzmujahidannabil/)
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources and Tools](#data-sources)
@@ -165,6 +169,3 @@ SET
 
 ## Interactive Dashboard
 https://lnkd.in/gTtQV3tS
-## LinkedIn
-
-Click here>>> <a href="https://www.linkedin.com/in/fairuzmujahidannabil" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30"></a> Fairuz Mujahid Annabil
